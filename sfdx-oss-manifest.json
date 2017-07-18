@@ -1,0 +1,25 @@
+{
+  "sfdxSource": true,
+  "version": "1.0.0",
+  "files": [
+    [
+      "staticresources/jasmine.resource",
+      "staticresources/jasmine.resource-meta.xml",
+      "staticresources/jasmineReporter.resource",
+      "staticresources/jasmineReporter.resource-meta.xml",
+      "staticresources/jasmineboot.resource",
+      "staticresources/jasmineboot.resource-meta.xml",
+      "staticresources/testutil.resource",
+      "staticresources/testutil.resource-meta.xml",
+      "staticresources/yourTests.resource-meta.xml",
+      "staticresources/yourTests.resource",
+      "aura/BaseTestRunnerCmp/BaseTestRunnerCmp.auradoc",
+      "aura/BaseTestRunnerCmp/BaseTestRunnerCmp.cmp",
+      "aura/BaseTestRunnerCmp/BaseTestRunnerCmp.cmp-meta.xml",
+      "aura/BaseTestRunnerCmp/BaseTestRunnerCmpController.js",
+      "aura/Tests/Tests.app",
+      "aura/Tests/Tests.app-meta.xml",
+      "aura/Tests/Tests.auradoc"
+    ]
+  ]
+}
